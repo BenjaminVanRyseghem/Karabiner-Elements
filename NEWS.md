@@ -1,7 +1,10 @@
 # Changelog
 
-## Beta
+## Karabiner-Elements 16.3.0
 
+- [📦 Download](https://github.com/pqrs-org/Karabiner-Elements/releases/download/v16.3.0/Karabiner-Elements-16.3.0.dmg)
+- 📅 Release date
+    - Sep 6, 2026
 - 🐛 Bug Fixes
     - Fixed an issue where modifier keys could become stuck when both the left and right Command or Shift keys were pressed while CGEventTap fallback was enabled.
     - Fixed an issue where updates were checked every time the system woke from sleep.
